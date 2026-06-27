@@ -1,0 +1,5 @@
+﻿Document,Method,Document_Type,Reviewer_1_Total,Reviewer_2_Total,Mean_Total,Quality_Percentage,Mean_Score
+Scope A,Manual,Scope,42,46,44.0,88.0,4.4
+Scope B,AI-generated,Scope,40,44,42.0,84.0,4.2
+FRS A,Manual,FRS,41,46,43.5,87.0,4.35
+FRS B,AI-generated,FRS,39,42,40.5,81.0,4.05

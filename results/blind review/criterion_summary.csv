@@ -1,0 +1,41 @@
+﻿Document,Method,Document_Type,Criterion,Reviewer_1,Reviewer_2,Mean_Score,Difference_R2_R1
+FRS A,Manual,FRS,Actionability,5,5,5.0,0
+FRS A,Manual,FRS,Business Relevance,5,5,5.0,0
+FRS A,Manual,FRS,Clarity & Unambiguity,3,5,4.0,2
+FRS A,Manual,FRS,Completeness,3,4,3.5,1
+FRS A,Manual,FRS,Consistency,5,5,5.0,0
+FRS A,Manual,FRS,Correctness,4,4,4.0,0
+FRS A,Manual,FRS,Required Rework,4,4,4.0,0
+FRS A,Manual,FRS,Structure & Readability,4,5,4.5,1
+FRS A,Manual,FRS,Testability,4,5,4.5,1
+FRS A,Manual,FRS,Traceability,4,4,4.0,0
+FRS B,AI-generated,FRS,Actionability,4,5,4.5,1
+FRS B,AI-generated,FRS,Business Relevance,4,5,4.5,1
+FRS B,AI-generated,FRS,Clarity & Unambiguity,3,4,3.5,1
+FRS B,AI-generated,FRS,Completeness,4,4,4.0,0
+FRS B,AI-generated,FRS,Consistency,4,4,4.0,0
+FRS B,AI-generated,FRS,Correctness,4,4,4.0,0
+FRS B,AI-generated,FRS,Required Rework,4,3,3.5,-1
+FRS B,AI-generated,FRS,Structure & Readability,4,4,4.0,0
+FRS B,AI-generated,FRS,Testability,4,5,4.5,1
+FRS B,AI-generated,FRS,Traceability,4,4,4.0,0
+Scope A,Manual,Scope,Actionability,4,5,4.5,1
+Scope A,Manual,Scope,Business Relevance,5,5,5.0,0
+Scope A,Manual,Scope,Clarity & Unambiguity,4,5,4.5,1
+Scope A,Manual,Scope,Completeness,4,5,4.5,1
+Scope A,Manual,Scope,Consistency,4,4,4.0,0
+Scope A,Manual,Scope,Correctness,5,5,5.0,0
+Scope A,Manual,Scope,Required Rework,4,5,4.5,1
+Scope A,Manual,Scope,Structure & Readability,4,4,4.0,0
+Scope A,Manual,Scope,Testability,4,4,4.0,0
+Scope A,Manual,Scope,Traceability,4,4,4.0,0
+Scope B,AI-generated,Scope,Actionability,4,5,4.5,1
+Scope B,AI-generated,Scope,Business Relevance,4,5,4.5,1
+Scope B,AI-generated,Scope,Clarity & Unambiguity,4,5,4.5,1
+Scope B,AI-generated,Scope,Completeness,4,4,4.0,0
+Scope B,AI-generated,Scope,Consistency,4,5,4.5,1
+Scope B,AI-generated,Scope,Correctness,4,4,4.0,0
+Scope B,AI-generated,Scope,Required Rework,4,4,4.0,0
+Scope B,AI-generated,Scope,Structure & Readability,4,4,4.0,0
+Scope B,AI-generated,Scope,Testability,4,4,4.0,0
+Scope B,AI-generated,Scope,Traceability,4,4,4.0,0

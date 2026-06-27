@@ -1,0 +1,21 @@
+﻿Document_Type,Criterion,AI-generated,Manual,AI_minus_Manual
+FRS,Actionability,4.5,5.0,-0.5
+FRS,Business Relevance,4.5,5.0,-0.5
+FRS,Clarity & Unambiguity,3.5,4.0,-0.5
+FRS,Completeness,4.0,3.5,0.5
+FRS,Consistency,4.0,5.0,-1.0
+FRS,Correctness,4.0,4.0,0.0
+FRS,Required Rework,3.5,4.0,-0.5
+FRS,Structure & Readability,4.0,4.5,-0.5
+FRS,Testability,4.5,4.5,0.0
+FRS,Traceability,4.0,4.0,0.0
+Scope,Actionability,4.5,4.5,0.0
+Scope,Business Relevance,4.5,5.0,-0.5
+Scope,Clarity & Unambiguity,4.5,4.5,0.0
+Scope,Completeness,4.0,4.5,-0.5
+Scope,Consistency,4.5,4.0,0.5
+Scope,Correctness,4.0,5.0,-1.0
+Scope,Required Rework,4.0,4.5,-0.5
+Scope,Structure & Readability,4.0,4.0,0.0
+Scope,Testability,4.0,4.0,0.0
+Scope,Traceability,4.0,4.0,0.0
