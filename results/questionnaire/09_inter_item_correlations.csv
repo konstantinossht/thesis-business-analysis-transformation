@@ -1,0 +1,105 @@
+﻿Construct,Item1,Item2,Spearman_r
+Perceived Usefulness (PU),Q11,Q11,
+Perceived Usefulness (PU),Q11,Q12,0.506
+Perceived Usefulness (PU),Q11,Q13,0.689
+Perceived Usefulness (PU),Q11,Q14,0.801
+Perceived Usefulness (PU),Q12,Q11,0.506
+Perceived Usefulness (PU),Q12,Q12,
+Perceived Usefulness (PU),Q12,Q13,0.402
+Perceived Usefulness (PU),Q12,Q14,0.591
+Perceived Usefulness (PU),Q13,Q11,0.689
+Perceived Usefulness (PU),Q13,Q12,0.402
+Perceived Usefulness (PU),Q13,Q13,
+Perceived Usefulness (PU),Q13,Q14,0.764
+Perceived Usefulness (PU),Q14,Q11,0.801
+Perceived Usefulness (PU),Q14,Q12,0.591
+Perceived Usefulness (PU),Q14,Q13,0.764
+Perceived Usefulness (PU),Q14,Q14,
+Perceived Ease of Use (PEOU),Q15,Q15,
+Perceived Ease of Use (PEOU),Q15,Q16,0.532
+Perceived Ease of Use (PEOU),Q15,Q17,0.569
+Perceived Ease of Use (PEOU),Q15,Q18,0.336
+Perceived Ease of Use (PEOU),Q16,Q15,0.532
+Perceived Ease of Use (PEOU),Q16,Q16,
+Perceived Ease of Use (PEOU),Q16,Q17,0.535
+Perceived Ease of Use (PEOU),Q16,Q18,0.13
+Perceived Ease of Use (PEOU),Q17,Q15,0.569
+Perceived Ease of Use (PEOU),Q17,Q16,0.535
+Perceived Ease of Use (PEOU),Q17,Q17,
+Perceived Ease of Use (PEOU),Q17,Q18,0.576
+Perceived Ease of Use (PEOU),Q18,Q15,0.336
+Perceived Ease of Use (PEOU),Q18,Q16,0.13
+Perceived Ease of Use (PEOU),Q18,Q17,0.576
+Perceived Ease of Use (PEOU),Q18,Q18,
+Behavioral Intention (BI),Q19,Q19,
+Behavioral Intention (BI),Q19,Q20,0.916
+Behavioral Intention (BI),Q19,Q21,0.567
+Behavioral Intention (BI),Q20,Q19,0.916
+Behavioral Intention (BI),Q20,Q20,
+Behavioral Intention (BI),Q20,Q21,0.641
+Behavioral Intention (BI),Q21,Q19,0.567
+Behavioral Intention (BI),Q21,Q20,0.641
+Behavioral Intention (BI),Q21,Q21,
+Εμπιστοσύνη στην AI,Q22,Q22,
+Εμπιστοσύνη στην AI,Q22,Q23,0.436
+Εμπιστοσύνη στην AI,Q22,Q24,0.385
+Εμπιστοσύνη στην AI,Q23,Q22,0.436
+Εμπιστοσύνη στην AI,Q23,Q23,
+Εμπιστοσύνη στην AI,Q23,Q24,0.39
+Εμπιστοσύνη στην AI,Q24,Q22,0.385
+Εμπιστοσύνη στην AI,Q24,Q23,0.39
+Εμπιστοσύνη στην AI,Q24,Q24,
+Ποιότητα Εξόδου,Q25,Q25,
+Ποιότητα Εξόδου,Q25,Q26,0.408
+Ποιότητα Εξόδου,Q25,Q27,0.199
+Ποιότητα Εξόδου,Q26,Q25,0.408
+Ποιότητα Εξόδου,Q26,Q26,
+Ποιότητα Εξόδου,Q26,Q27,-0.0
+Ποιότητα Εξόδου,Q27,Q25,0.199
+Ποιότητα Εξόδου,Q27,Q26,-0.0
+Ποιότητα Εξόδου,Q27,Q27,
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q28,Q28,
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q28,Q29,0.66
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q28,Q30,0.677
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q29,Q28,0.66
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q29,Q29,
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q29,Q30,0.816
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q30,Q28,0.677
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q30,Q29,0.816
+Αυτοπεποίθηση Λήψης Αποφάσεων,Q30,Q30,
+Εξοικονόμηση Χρόνου,Q31,Q31,
+Εξοικονόμηση Χρόνου,Q31,Q32,0.718
+Εξοικονόμηση Χρόνου,Q31,Q33,0.68
+Εξοικονόμηση Χρόνου,Q32,Q31,0.718
+Εξοικονόμηση Χρόνου,Q32,Q32,
+Εξοικονόμηση Χρόνου,Q32,Q33,0.738
+Εξοικονόμηση Χρόνου,Q33,Q31,0.68
+Εξοικονόμηση Χρόνου,Q33,Q32,0.738
+Εξοικονόμηση Χρόνου,Q33,Q33,
+Βελτίωση Ποιότητας Εργασίας,Q34,Q34,
+Βελτίωση Ποιότητας Εργασίας,Q34,Q35,0.139
+Βελτίωση Ποιότητας Εργασίας,Q34,Q36,0.285
+Βελτίωση Ποιότητας Εργασίας,Q35,Q34,0.139
+Βελτίωση Ποιότητας Εργασίας,Q35,Q35,
+Βελτίωση Ποιότητας Εργασίας,Q35,Q36,0.603
+Βελτίωση Ποιότητας Εργασίας,Q36,Q34,0.285
+Βελτίωση Ποιότητας Εργασίας,Q36,Q35,0.603
+Βελτίωση Ποιότητας Εργασίας,Q36,Q36,
+Πραγματική Χρήση AI,Q37,Q37,
+Πραγματική Χρήση AI,Q37,Q38,0.871
+Πραγματική Χρήση AI,Q37,Q39,0.664
+Πραγματική Χρήση AI,Q38,Q37,0.871
+Πραγματική Χρήση AI,Q38,Q38,
+Πραγματική Χρήση AI,Q38,Q39,0.571
+Πραγματική Χρήση AI,Q39,Q37,0.664
+Πραγματική Χρήση AI,Q39,Q38,0.571
+Πραγματική Χρήση AI,Q39,Q39,
+Ανάγκη Ανθρώπινης Επίβλεψης,Q40,Q40,
+Ανάγκη Ανθρώπινης Επίβλεψης,Q40,Q41,0.402
+Ανάγκη Ανθρώπινης Επίβλεψης,Q40,Q42,0.02
+Ανάγκη Ανθρώπινης Επίβλεψης,Q41,Q40,0.402
+Ανάγκη Ανθρώπινης Επίβλεψης,Q41,Q41,
+Ανάγκη Ανθρώπινης Επίβλεψης,Q41,Q42,0.226
+Ανάγκη Ανθρώπινης Επίβλεψης,Q42,Q40,0.02
+Ανάγκη Ανθρώπινης Επίβλεψης,Q42,Q41,0.226
+Ανάγκη Ανθρώπινης Επίβλεψης,Q42,Q42,

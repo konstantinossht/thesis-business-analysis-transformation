@@ -1,0 +1,4 @@
+﻿Test,n,Alpha,Power,Min_Effect_Size,ES_Unit,Notes,k_groups
+Wilcoxon Signed-Rank (1-sample),31,0.05,0.8,0.4,rank-biserial r,r >= 0.40 detectable with 80% power,
+Kruskal-Wallis (4 groups),31,0.05,0.8,0.08,η² (eta-squared),η² >= 0.08 (moderate effect) likely detectable,4.0
+Spearman Correlation,31,0.05,0.8,0.35,rho,ρ >= 0.35 likely detectable; small correlations ≤0.30 likely ns,

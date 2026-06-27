@@ -1,0 +1,36 @@
+﻿Assessment_Type,Metric,Value,Threshold,Status
+Common_Method_Bias,Harman_1st_Factor_Var_%,29.3,50,Low_Risk
+Ceiling_Effect,Q11,"SK=0.065, Top2%=100.0",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q12,"SK=-0.145, Top2%=83.9",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q13,"SK=-0.746, Top2%=96.8",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q14,"SK=-0.245, Top2%=96.8",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q15,"SK=-0.434, Top2%=93.5",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q16,"SK=-1.01, Top2%=90.3",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q17,"SK=0.215, Top2%=93.5",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q19,"SK=-1.312, Top2%=100.0",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q20,"SK=-1.106, Top2%=100.0",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q21,"SK=-0.607, Top2%=100.0",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q28,"SK=-0.993, Top2%=87.1",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q29,"SK=-1.041, Top2%=80.6",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q30,"SK=-0.772, Top2%=77.4",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q31,"SK=-1.204, Top2%=96.8",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q32,"SK=-0.486, Top2%=96.8",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q33,"SK=-0.434, Top2%=93.5",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q34,"SK=0.33, Top2%=96.8",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q35,"SK=-0.088, Top2%=83.9",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q36,"SK=-0.746, Top2%=87.1",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q37,"SK=0.065, Top2%=100.0",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q38,"SK=0.065, Top2%=100.0",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q39,"SK=-0.088, Top2%=83.9",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q40,"SK=-1.824, Top2%=96.8",SK<-1 or %>=60,Flag
+Ceiling_Effect,Q41,"SK=-1.106, Top2%=100.0",SK<-1 or %>=60,Flag
+Convergent_Validity,Perceived Usefulness (PU),"AVE=0.710, CR=0.906","AVE>0.50, CR>0.70",AVE ✓✓ CR ✓✓
+Convergent_Validity,Perceived Ease of Use (PEOU),"AVE=0.614, CR=0.862","AVE>0.50, CR>0.70",AVE ✓ CR ✓✓
+Convergent_Validity,Behavioral Intention (BI),"AVE=0.809, CR=0.927","AVE>0.50, CR>0.70",AVE ✓✓ CR ✓✓
+Convergent_Validity,Εμπιστοσύνη στην AI,"AVE=0.606, CR=0.822","AVE>0.50, CR>0.70",AVE ✓ CR ✓✓
+Convergent_Validity,Ποιότητα Εξόδου,"AVE=0.482, CR=0.715","AVE>0.50, CR>0.70",AVE ✗ CR ✓
+Convergent_Validity,Αυτοπεποίθηση Λήψης Αποφάσεων,"AVE=0.873, CR=0.954","AVE>0.50, CR>0.70",AVE ✓✓ CR ✓✓
+Convergent_Validity,Εξοικονόμηση Χρόνου,"AVE=0.793, CR=0.920","AVE>0.50, CR>0.70",AVE ✓✓ CR ✓✓
+Convergent_Validity,Βελτίωση Ποιότητας Εργασίας,"AVE=0.560, CR=0.775","AVE>0.50, CR>0.70",AVE ✓ CR ✓
+Convergent_Validity,Πραγματική Χρήση AI,"AVE=0.801, CR=0.923","AVE>0.50, CR>0.70",AVE ✓✓ CR ✓✓
+Convergent_Validity,Ανάγκη Ανθρώπινης Επίβλεψης,"AVE=0.482, CR=0.700","AVE>0.50, CR>0.70",AVE ✗ CR ✓
