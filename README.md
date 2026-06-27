@@ -1,2 +1,59 @@
 # thesis-business-analysis-transformation
 Supplementary research material for undergraduate thesis: AI vs manual Business Analysis deliverables (Scope, FRS) — productivity measurement, blind quality review, and TAM survey (n=31). Athens University of Economics and Business, 2026.
+
+Το αποθετήριο αυτό περιέχει το ερευνητικό υλικό της πτυχιακής εργασίας με τίτλο «Ο Μετασχηματισμός της Επιχειρησιακής Ανάλυσης στην Εποχή της Τεχνητής Νοημοσύνης», η οποία εκπονήθηκε στο πλαίσιο του Τμήματος Διοικητικής Επιστήμης & Τεχνολογίας (DMST) του Οικονομικού Πανεπιστημίου Αθηνών.
+
+Η έρευνα διερευνά κατά πόσο τα εργαλεία Generative AI μπορούν να μετασχηματίσουν την παραγωγή παραδοτέων επιχειρηματικής ανάλυσης (Business Analysis deliverables) σε πραγματικό επαγγελματικό πλαίσιο, εξετάζοντας τρεις διαστάσεις: παραγωγικότητα, ποιότητα και αποδοχή τεχνολογίας.
+
+Ερευνητικά Ερωτήματα:
+1. Σε ποιο βαθμό η χρήση εργαλείων Generative AI μειώνει τον χρόνο παραγωγής παραδοτέων επιχειρηματικής ανάλυσης (Project Scope, FRS) σε πραγματικό έργο IT Consulting;
+2. Είναι τα AI-generated παραδοτέα ποιοτικά συγκρίσιμα με τα manually-written, όταν αξιολογούνται τυφλά από έμπειρους Business Analysts;
+3. Ποιοι παράγοντες διαμορφώνουν την αποδοχή και εμπιστοσύνη των Business Analysts απέναντι στα εργαλεία AI;
+
+Βασικά Ευρήματα:
+1. Εξοικονόμηση χρόνου: 685 λεπτά (manual) → 74 λεπτά (AI+review) = 89.2% μείωση, εκ των οποίων το 73% του χρόνου AI αφορά ανθρώπινη αναθεώρηση.
+2. Ποιότητα παραδοτέων: Manual 87.5% vs AI-generated 82.5% (μέσος όρος αξιολόγησης, max=100%).
+3. Αποδοχή τεχνολογίας: Υψηλή πρόθεση χρήσης (M=4.72) σε συνδυασμό με ουδέτερη εμπιστοσύνη στο AI (M=2.97, p=0.763 vs ουδέτερο). Η πραγματική χρήση συσχετίζεται ισχυρά με εξοικονόμηση χρόνου    (ρ=0.71, p<0.001).
+
+
+Δομή Αποθετηρίου:
+thesis-ai-business-analysis/
+│
+├── README.md                          ← Το παρόν αρχείο
+│
+├── deliverables/                      ← Παραρτήματα Α: Παραδοτέα Έρευνας
+│   ├── Scope_A_Manual.pdf             ← Χειρόγραφο Project Scope
+│   ├── Scope_B_AI_generated.pdf       ← AI-generated Project Scope
+│   ├── FRS_A_Manual.pdf               ← Χειρόγραφο FRS
+│   └── FRS_B_AI_generated.pdf         ← AI-generated FRS
+│
+├── data/                              ← Παραρτήματα Β: Δεδομένα Αξιολόγησης
+│   ├── blind_review_reviewer1.xlsx    ← Αξιολογήσεις Αξιολογητή 1
+│   ├── blind_review_reviewer2.xlsx    ← Αξιολογήσεις Αξιολογητή 2
+│   └── TAM_survey_anonymized.xlsx     ← Ανωνυμοποιημένα δεδομένα ερωτηματολογίου
+│
+├── analysis/                          ← Παραρτήματα Ε: Κώδικες Ανάλυσης
+│   ├── blind_review_analysis.py       ← Ανάλυση blind review (Φάση 2)
+│   └── new_spearman.py                ← Ανάλυση TAM ερωτηματολογίου (Φάση 3)
+│
+└── results/                           ← Εξαγόμενα αποτελέσματα
+    ├── blind_review_analysis_results.xlsx
+    ├── 01_total_score_by_document.png
+    ├── 02_manual_vs_ai_by_type.png
+    ├── 03_heatmap_criterion_document.png
+    ├── 04_ai_minus_manual_by_criterion_Scope.png
+    ├── 04_ai_minus_manual_by_criterion_FRS.png
+    ├── 01_demographics.png
+    ├── 02_spearman_heatmap.png
+    ├── 03_likert_part1.png
+    ├── 03_likert_part2.png
+    ├── 04_construct_means.png
+    └── 05_radar_tam_profile.png
+
+Ανωνυμοποίηση & Εμπιστευτικότητα:
+Όλα τα έγγραφα παραδοτέων (Scope, FRS) έχουν ανωνυμοποιηθεί ώστε να μην αποκαλύπτεται η ταυτότητα της εταιρείας, των πελατών ή των εμπλεκόμενων προσώπων. Τα δεδομένα του ερωτηματολογίου (TAM) είναι πλήρως ανώνυμα — δεν συλλέχθηκαν ονόματα ή άλλα αναγνωριστικά στοιχεία. Η χρήση του υλικού επιτρέπεται αποκλειστικά για ακαδημαϊκούς και ερευνητικούς σκοπούς.
+
+
+Αναφορά (Citation):
+Αν χρησιμοποιήσετε αυτό το υλικό σε ακαδημαϊκή εργασία, παρακαλώ αναφερθείτε ως εξής:
+Σαχίτι, Κ. (2026). Ο Μετασχηματισμός της Επιχειρησιακής Ανάλυσης στην Εποχή της Τεχνητής Νοημοσύνης [Πτυχιακή Εργασία]. Τμήμα Διοικητικής Επιστήμης & Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών.
